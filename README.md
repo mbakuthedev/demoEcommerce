@@ -1,2 +1,2 @@
 # demoEcommerce
-A demo e-commerce website in Javascript
+A demo learning website in Javascript
